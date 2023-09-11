@@ -2,29 +2,29 @@
 This repository demonstrates the concepts of java programming language
 
  Characteristics of JAVA
-o Data Types concepts of JAVA
-o Operators in JAVA
-o Input and Output
-o Arrays in JAVA
-o String , StringBuffer & StringBuilder
-o Concepts of OOP in JAVA
-o Methods in JAVA
-o Polymorphism
-o Abstract class and abstract method
-o Interface & its use
-o Packages in JAVA
-o Exception handling
-o File handling in java 
+• Data Types concepts of JAVA
+• Operators in JAVA
+• Input and Output
+• Arrays in JAVA
+• String , StringBuffer & StringBuilder
+• Concepts of OOP in JAVA
+• Methods in JAVA
+• Polymorphism
+• Abstract class and abstract method
+• Interface & its use
+• Packages in JAVA
+• Exception handling
+• File handling in java 
 
 Advanced java
-o The Collection framework
-o Event driven programming in JAVA
-o Servlet applications
-o JSP applications
-o MVC architecture
-o Sessions and cookies
-o Network programming in JAVA
-o Multithreading in JAVA
-o JAVA Database connectivity
-o Graphics programming using AWT & Swing
-o Wrapper classes 
+• The Collection framework
+• Event driven programming in JAVA
+• Servlet applications
+• JSP applications
+• MVC architecture
+• Sessions and cookies
+• Network programming in JAVA
+• Multithreading in JAVA
+• JAVA Database connectivity
+• Graphics programming using AWT & Swing
+• Wrapper classes 
